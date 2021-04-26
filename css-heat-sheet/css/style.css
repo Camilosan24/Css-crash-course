@@ -101,7 +101,7 @@ a:active{
 .categories li{
    padding-bottom: 6px;
    border-bottom: dotted 1px #333;
-   /* list-style-image: url('../images/check.png'); */
+   list-style-image: url('../images/check.png');
 }
 
 .my-form{
@@ -164,7 +164,6 @@ a:active{
    background-position: 100px 200px;
    background-repeat: no-repeat;
    background-position: center center;
-   background-size: cover;
 }
 
 .p-box h1{
